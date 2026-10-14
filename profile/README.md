@@ -13,24 +13,29 @@
   </a>
 </p>
 
-<p align="center">Building foundational AI for complex systems.</p>
+<p align="center">World models for physical industry.</p>
 
 <br>
 
-Every complex system telegraphs its future. The signals are already in the data, accumulating across markets, machines, grids, and supply chains long before the outcome arrives. No single model has ever read them whole. We build the foundational AI that does, sees what comes next, and makes a better decision before anyone else can.
+Parisi Labs builds models that learn how physical systems evolve, helping people explore possible futures and decide how to act within real constraints.
+
+We are starting with energy, where weather, infrastructure, markets and operating decisions shape one another continuously. Our work brings together data, forecasting, simulation and tools for understanding the system and choosing what to do next.
 
 ### What we build
 
-- **Time-series foundation models** — industry-leading models for forecasting the behavior of complex systems.
-- **Enterprise decision systems** — systems built around foundational AI that make better decisions inside real operations.
+- **[Metis](https://askthegrid.com/platform/ai)** — our family of models for physical systems, starting with probabilistic forecasts for power markets.
+- **[Ask The Grid](https://askthegrid.com)** — our live energy workspace, connecting markets, infrastructure, assets and weather.
+- **Parisi Platform** — in development with operating partners, connecting our models to the objectives and constraints of real operations.
 
-The public end of this work is **[TSFM.ai](https://tsfm.ai)**, our foundation model platform for time-series forecasting, alongside what we release in this org. Most of what we do stays private. What appears here is a narrow window into it — and if the view from out here is interesting, it is better from inside.
+[Read our thesis](https://parisi-labs.com/thesis/) on world models and the path from prediction to action.
 
-### People
+### Build with us
 
-We are assembling the founding team around one mission: to make the best possible decision in any system. The people we want are one of one, whether they have spent twenty years on the problem or are only just beginning. We work in person, in New York and Boston.
+We are assembling our founding team across research, engineering and commercial roles, working in person in New York City and Boston / Cambridge.
 
-If you want to work here, use our technology, or partner with us — [contact@parisi-labs.com](mailto:contact@parisi-labs.com).
+[See open roles](https://parisi-labs.com/careers/) · [Work with us](https://parisi-labs.com/contact/)
+
+For research, partnerships or anything else: [contact@parisi-labs.com](mailto:contact@parisi-labs.com).
 
 <br>
 
